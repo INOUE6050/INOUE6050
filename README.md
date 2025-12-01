@@ -10,10 +10,10 @@ My research focuses on ribosome-induced transdifferentiation, cell culture techn
 ![GitHub Streak](https://streak-stats.demolab.com/?user=INOUE6050&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=INOUE6050&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=INOUE6050&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=INOUE6050&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=INOUE6050&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=INOUE6050&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=INOUE6050&theme=tokyonight&width=400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=INOUE6050&theme=tokyonight&width=400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=INOUE6050&theme=tokyonight&width=400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=INOUE6050&theme=tokyonight&width=400)
 
 ---
 
