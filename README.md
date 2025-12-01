@@ -6,20 +6,8 @@ My research focuses on ribosome-induced transdifferentiation, cell culture techn
 
 ---
 
-## 📊 GitHub Stats & Languages
-
-### 🔥 Streak Stats
+## 📊 GitHub Overview
 ![GitHub Streak](https://streak-stats.demolab.com/?user=INOUE6050&theme=tokyonight)
-
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=INOUE6050&show_icons=true&theme=tokyonight)
-
-### 🧪 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INOUE6050&layout=compact&langs_count=8&theme=tokyonight)
-
----
-
-## 🗂 Summary Cards
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=INOUE6050&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=INOUE6050&theme=tokyonight)
