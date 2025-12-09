@@ -11,7 +11,7 @@ My research focuses on ribosome-induced transdifferentiation, cell culture techn
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=INOUE6050&theme=tokyonight&width=400)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=INOUE6050&theme=tokyonight&width=400)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=INOUE6050&theme=tokyonight&width=400)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=INOUE6050&theme=tokyonight&width=400)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=INOUE6050&theme=tokyonight&utcOffset=9" width="340">
 
 ---
 
